@@ -1,11 +1,11 @@
 (module Relais_SPST_Schrack-RP-3SL_bistabil (layer F.Cu) (tedit 54093C44)
   (descr "Relay, SPST, bistabil, Schrack-RP-3SL, 12A, 250V, AC,")
   (tags "Relay, SPST, bistabil, Schrack-RP-3SL, 12A, 250V, AC, Relais, 1 x ein,")
-  (fp_text reference K (at 12.4206 -12.3952) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Relais_SPST_Schrack-RP-3SL_bistabil (at 12.4206 -12.3952) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Relais_SPST_Schrack-RP-3SL_bistabil_RevB_07Oct2013 (at 12.9 4.5) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 12.9 4.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.9 0.15) (end 2.5 0.15) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.9 -3.6) (end 2.55 -3.6) (layer F.SilkS) (width 0.15))
@@ -31,7 +31,7 @@
   (pad 14 thru_hole circle (at 24 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 24 -7.2) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad A3 thru_hole circle (at 0 -3.6) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
-  (model Relay_ThroughHole_Packages_Wings3d_RevC_07Oct2013/Relay_Schrack-RP3SL_Bistabil_Faktor03937_RevA_07Oct2013.wrl
+  (model Relays_ThroughHole/Relais_SPST_Schrack-RP-3SL_bistabil.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
