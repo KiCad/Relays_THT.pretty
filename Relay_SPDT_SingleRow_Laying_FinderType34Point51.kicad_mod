@@ -50,7 +50,7 @@
   (pad 12 thru_hole circle (at 2.10058 0) (size 2.30124 2.30124) (drill 1.30048) (layers *.Cu *.Mask F.SilkS))
   (pad A1 thru_hole circle (at -9.14908 0) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad A2 thru_hole circle (at -12.90066 0) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model "Relays_ThroughHole/Relay_SPDT_SingleRow_Laying_FinderType34Point51.wrl"
+  (model Relays_ThroughHole/Relay_SPDT_SingleRow_Laying_FinderType34Point51.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

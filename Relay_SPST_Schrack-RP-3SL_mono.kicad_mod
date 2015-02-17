@@ -28,9 +28,9 @@
   (pad 11 thru_hole circle (at 19.2 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 24 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 24 -7.2) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
-  (model "Relays_ThroughHole/Relay_SPST_Schrack-RP-3SL_mono.wrl"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+  (model Relays_ThroughHole/Relay_SPST_Schrack-RP-3SL_mono.wrl
+    (at (xyz 0.476 0.1417 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
