@@ -1,9 +1,9 @@
 (module Relay_SANYOU_SRD_Series_Form_C (layer F.Cu) (tedit 5418D3EA)
   (descr "relay, Sanyou SRD series Form C")
-  (fp_text reference Relay_SANYOU_SRD_Series_Form_C (at 8.1 9.2) (layer F.SilkS)
+  (fp_text reference REF** (at 8.1 9.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 8 -9.6) (layer F.SilkS)
+  (fp_text value Relay_SANYOU_SRD_Series_Form_C (at 8 -9.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 15 7.7) (end 18.3 7.7) (layer F.SilkS) (width 0.15))
@@ -36,7 +36,7 @@
   (pad 4 thru_hole circle (at 14.2 -6 90) (size 3 3) (drill 1.3) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 1.95 -5.95 90) (size 2.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0 90) (size 3 3) (drill 1.3) (layers *.Cu *.Mask))
-  (model Relays_ThroughHole/Relay_SANYOU_SRD_Series_Form_C.wrl
+  (model Relays_ThroughHole.3dshapes/Relay_SANYOU_SRD_Series_Form_C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

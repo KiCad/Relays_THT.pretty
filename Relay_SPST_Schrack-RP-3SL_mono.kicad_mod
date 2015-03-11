@@ -1,10 +1,10 @@
 (module Relay_SPST_Schrack-RP-3SL_mono (layer F.Cu) (tedit 54C87CFC)
   (descr "Relay, SPST, bistable, Schrack-RP-3SL, 12A, 250V, AC,")
   (tags "Relay, SPST, bistable, Schrack-RP-3SL, 12A, 250V, AC, Relay, 1 x ein,")
-  (fp_text reference Relay_SPST_Schrack-RP-3SL_mono (at 12.446 -10.922) (layer F.SilkS)
+  (fp_text reference REF** (at 12.446 -10.922) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 12.192 3.556) (layer F.SilkS) hide
+  (fp_text value Relay_SPST_Schrack-RP-3SL_mono (at 12.192 3.556) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.9 0.15) (end 2.5 0.15) (layer F.SilkS) (width 0.15))
@@ -28,7 +28,7 @@
   (pad 11 thru_hole circle (at 19.2 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 24 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 24 -7.2) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
-  (model Relays_ThroughHole/Relay_SPST_Schrack-RP-3SL_mono.wrl
+  (model Relays_ThroughHole.3dshapes/Relay_SPST_Schrack-RP-3SL_mono.wrl
     (at (xyz 0.476 0.1417 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

@@ -1,10 +1,10 @@
 (module Relay_SPDS_OMRON-G6E (layer F.Cu) (tedit 54C87499)
   (descr "Relay, SPDT, Omron, Serie, G6E,")
   (tags "Relay, SPDT, Omron, Serie, G6E, 1 x um, Relay")
-  (fp_text reference Relay_SPDS_OMRON-G6E (at 6.30936 -9.82726) (layer F.SilkS)
+  (fp_text reference REF** (at 6.30936 -9.82726) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 5.08 3.81) (layer F.SilkS)
+  (fp_text value Relay_SPDS_OMRON-G6E (at 5.08 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.81 -1.651) (end 0 -1.651) (layer F.SilkS) (width 0.15))
@@ -34,7 +34,7 @@
   (pad 10 thru_hole circle (at 5.08 -7.62) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 12.7 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole circle (at 12.7 -7.62) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model Relays_ThroughHole/Relay_SPDS_OMRON-G6E.wrl
+  (model Relays_ThroughHole.3dshapes/Relay_SPDS_OMRON-G6E.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
