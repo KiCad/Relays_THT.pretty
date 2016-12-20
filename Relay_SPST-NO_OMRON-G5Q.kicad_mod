@@ -7,7 +7,7 @@
   (fp_text value Relay_SPST-NO_OMRON-G5Q (at 8.8 3 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 0 -1) (end 0 -6.5) (layer F.Fab) (width 0.15))
+  (fp_line (start 0 -1) (end 0 -6.5) (layer F.Fab) (width 0.10))
   (fp_line (start 18.96 -8.81) (end 18.96 1.19) (layer F.Fab) (width 0.1))
   (fp_line (start 18.96 1.19) (end -1.18 1.19) (layer F.Fab) (width 0.1))
   (fp_line (start -1.18 1.19) (end -1.18 -8.81) (layer F.Fab) (width 0.1))
