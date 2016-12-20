@@ -1,5 +1,5 @@
 (module Relay_SPDT_HJR-4102 (layer F.Cu) (tedit 57F111CE)
-  (descr "IM Signal Relay, SPDT, HJR-4102")
+  (descr "IM Signal Relay SPDT HJR-4102")
   (tags "Relay SPDT IM-relay HJR-4102")
   (fp_text reference REF** (at 1.27 -1.778) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

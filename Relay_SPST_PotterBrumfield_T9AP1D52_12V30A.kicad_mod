@@ -1,6 +1,6 @@
 (module Relay_SPST_PotterBrumfield_T9AP1D52_12V30A (layer F.Cu) (tedit 584F0F62)
-  (descr "Relay, SPST, Potter&Brumfield, T9AP1D52, 12V, 30A, 1xEin, Connector Fast ON, Only Dummy for Space, NO Pads,")
-  (tags "Relau, SPST, Potter&Brumfield, T9AP1D52, 12V, 30A, 1xEin, Connector Fast ON, Flachsteckeranschluss, Only Dummy for Space, NO Pads,")
+  (descr "Relay SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Only Dummy for Space NO Pads")
+  (tags "Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachsteckeranschluss Only Dummy for Space NO Pads")
   (fp_text reference REF** (at 0 -26.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

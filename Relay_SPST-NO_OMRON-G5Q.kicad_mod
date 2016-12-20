@@ -1,5 +1,6 @@
 (module Relay_SPST-NO_OMRON-G5Q (layer F.Cu) (tedit 5835E7EC)
-  (descr "Relay, SPST-NO, Omron, Serie, G5Q")
+  (descr "Relay SPST-NO Omron Serie G5Q")
+  (tags "Relay SPST-NO Omron Serie G5Q")
   (fp_text reference REF** (at 9.5 -10.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,6 +1,6 @@
 (module Relay_SPST_Schrack-RP-II-1_RM3-5mm (layer F.Cu) (tedit 584F0A64)
-  (descr "Relay, SPST, Schrack-RP-II/1, RM3.5mm, 8A250VAC")
-  (tags "Relay, SPST,  Schrack-RP-II/1, RM3.5mm, 8A 250V AC, Relay. 1 x ein,")
+  (descr "Relay SPST Schrack-RP-II/1 RM3.5mm 8A250VAC")
+  (tags "Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC 1x ein")
   (fp_text reference REF** (at 12.75 -11.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

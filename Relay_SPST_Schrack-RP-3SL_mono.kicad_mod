@@ -1,6 +1,6 @@
 (module Relay_SPST_Schrack-RP-3SL_mono (layer F.Cu) (tedit 584F0C6D)
-  (descr "Relay, SPST, bistable, Schrack-RP-3SL, 12A, 250V, AC,")
-  (tags "Relay, SPST, bistable, Schrack-RP-3SL, 12A, 250V, AC, Relay, 1 x ein,")
+  (descr "Relay SPST bistable Schrack-RP-3SL 12A 250V AC")
+  (tags "Relay SPST bistable Schrack-RP-3SL 12A 250V AC 1x ein")
   (fp_text reference REF** (at 12 -11.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

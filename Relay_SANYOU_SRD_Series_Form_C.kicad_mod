@@ -1,5 +1,5 @@
 (module Relay_SANYOU_SRD_Series_Form_C (layer F.Cu) (tedit 584F0522)
-  (descr "relay, Sanyou SRD series Form C")
+  (descr "relay Sanyou SRD series Form C")
   (fp_text reference REF** (at 8.1 9.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

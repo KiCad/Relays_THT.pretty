@@ -1,5 +1,5 @@
 (module "Relay_DPDT_IM0(3,6,7)NS" (layer F.Cu) (tedit 55FAC2CB)
-  (descr "IM Signal Relay, DPDT, IM0(3,6,7)NS, narrow footprint")
+  (descr "IM Signal Relay DPDT IM0(3,6,7)NS narrow footprint")
   (tags "Relay DPDT IM-relay")
   (fp_text reference REF** (at 2.15 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

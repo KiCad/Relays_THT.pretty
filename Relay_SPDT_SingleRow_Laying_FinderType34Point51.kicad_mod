@@ -1,6 +1,6 @@
 (module Relay_SPDT_SingleRow_Laying_FinderType34Point51 (layer F.Cu) (tedit 584F1503)
-  (descr "Relay, SPDT, Wechsler, 1 x Um, Single Row, Einreihig, Laying, liegend, Finder Type34.51, RevB, Date 25Jun2010")
-  (tags "Relay, SPDT, Wechsler, 1 x Um, Single Row, Einreihig, Laying, liegend, Finder Type34.51, RevB, Date 25Jun2010")
+  (descr "Relay SPDT Wechsler 1x Um Single Row Einreihig Laying liegend Finder Type34.51 RevB Date 25Jun2010")
+  (tags "Relay SPDT Wechsler 1x Um Single Row Einreihig Laying liegend Finder Type34.51 RevB Date 25Jun2010")
   (fp_text reference REF** (at 0 -16.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

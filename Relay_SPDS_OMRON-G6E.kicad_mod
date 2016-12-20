@@ -1,6 +1,6 @@
 (module Relay_SPDS_OMRON-G6E (layer F.Cu) (tedit 584F0626)
-  (descr "Relay, SPDT, Omron, Serie, G6E,")
-  (tags "Relay, SPDT, Omron, Serie, G6E, 1 x um, Relay")
+  (descr "Relay SPDT Omron Serie G6E")
+  (tags "Relay SPDT Omron Serie G6E 1x um")
   (fp_text reference REF** (at 6.30936 -9.82726) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
