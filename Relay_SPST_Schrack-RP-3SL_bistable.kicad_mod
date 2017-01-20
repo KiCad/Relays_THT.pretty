@@ -34,7 +34,7 @@
   (pad 14 thru_hole circle (at 24 0) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 24 -7.2) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask))
   (pad A3 thru_hole circle (at 0 -3.6) (size 2.5 2.5) (drill 1.19888) (layers *.Cu *.Mask))
-  (model Relays_THT.3dshapes/Relay_SPST_Schrack-RP-3SL_bistable.wrl
+  (model Relays_ThroughHole.3dshapes/Relay_SPST_Schrack-RP-3SL_bistable.wrl
     (at (xyz 0.476 0.1417 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
